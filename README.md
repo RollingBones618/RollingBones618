@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RollingBones618
+- 👀 I’m interested in coding as an academic pursuit and as way to develop a hobby(most likely a video game)
+- 🌱 I’m currently learning c++
+- 📫 How to reach me: (macalvey@outlook.com)
